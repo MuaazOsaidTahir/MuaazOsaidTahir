@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Muaaz%20Osaid%20Tahir&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%86%92%20Data%20Science%20%26%20Machine%20Learning&descSize=18&descAlignY=60)
+![Muaaz Osaid Tahir](./banner.png)
 
 [![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=4FC3F7&width=620&lines=3%2B+years+building+production+web+software;Now+studying+Data+Science+in+Italy+%F0%9F%87%AE%F0%9F%87%B9;Full-stack+%C2%B7+Backend+%C2%B7+ML+%C2%B7+Cloud;Open+to+remote+roles+in+Europe)](https://github.com/MuaazOsaidTahir)
 
